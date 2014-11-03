@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/offstate"
+
+    tools:context=".TenetTorchApplication">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+
+        android:id="@+id/textView"
+        android:textColor="#ffff0009"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Tap to turn on light"
+        android:id="@+id/textView2"
+        android:textColor="#ffff0500"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <ToggleButton
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="New ToggleButton"
+        android:id="@+id/toggleButton1"
+        android:checked="false"
+        android:textOff=""
+        android:textOn=""
+        android:background="@android:color/transparent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
+<!-- From: file:/D:/TenetTorchApplication/app/src/main/res/layout/activity_tenet_torch_application.xml -->

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\TenetTorchApplication\app\src\main\res" >
+            <file
+                name="androtroch"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\androtroch.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="finallogo"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\finallogo.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="finallogo1"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\finallogo1.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="grey"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\grey.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="images"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\images.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logoaltered"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\logoaltered.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logobmp"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\logobmp.bmp"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logojpeg"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\logojpeg.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="offstate"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\offstate.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ontorch"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\ontorch.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sun"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\sun.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tenet"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\tenet.jpeg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tenetlogo"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-hdpi\tenetlogo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\TenetTorchApplication\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="D:\TenetTorchApplication\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_tenet_torch_application"
+                path="D:\TenetTorchApplication\app\src\main\res\layout\activity_tenet_torch_application.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_widgetservice"
+                path="D:\TenetTorchApplication\app\src\main\res\layout\activity_widgetservice.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="splashscreen"
+                path="D:\TenetTorchApplication\app\src\main\res\menu\splashscreen.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="tenet_torch_application"
+                path="D:\TenetTorchApplication\app\src\main\res\menu\tenet_torch_application.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="widgetservice"
+                path="D:\TenetTorchApplication\app\src\main\res\menu\widgetservice.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="D:\TenetTorchApplication\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="D:\TenetTorchApplication\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_main" >Main
+                </string>
+                <string name="app_name" >TenetTorchApplication
+                </string>
+                <string name="title_activity_widgetservice" >Widgetservice
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="title_activity_splashscreen" >Splashscreen
+                </string>
+            </file>
+            <file
+                path="D:\TenetTorchApplication\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="D:\TenetTorchApplication\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="widget"
+                path="D:\TenetTorchApplication\app\src\main\res\xml\widget.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="D:\TenetTorchApplication\app\build\generated\res\rs\release" />
+        <source path="D:\TenetTorchApplication\app\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="D:\TenetTorchApplication\app\src\release\res" />
+    </dataSet>
+
+</merger>
